@@ -194,6 +194,14 @@ span{
     position: relative;
 
 }
+.latest-deals{
+    color: #272727;
+    font-size: 40px;
+}
+.coupon-offer{
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+}
 .container-text{
     text-align: center;
     width: 1170px;
@@ -207,8 +215,44 @@ span{
     padding-top: 2%;}
 
     .subscribe-button{
-        border-radius: 8px;
-        background: #E55473;
         text-decoration: none;
         color: white;
+        border-radius: 8px;
+        border-radius: 8px;
+        background: #E55473;
+        padding: 20px 43px;
+        font-size: 20px;
+        font-weight: 700;
     }
+    input[type=text],
+    select,
+    textarea {
+        width: 25%;
+        padding: 23px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-bottom: 2%;
+    }
+
+    footer{
+        width: 1922px;
+        height: 449px;
+        background: #111010;
+    }
+    .footer-item{
+        text-align: center;
+        padding-top: 4%;
+    
+    }
+    .footer-heading{
+        color: white;
+        font-size: 48px;
+    }
+    .footer-details{
+        color: rgba(255, 255, 255, 0.90);
+    }
+    small{
+        color: rgba(255, 255, 255, 0.40);
+    }
+  
