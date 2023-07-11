@@ -16,6 +16,8 @@ body{
 }
 .flower-details{
     margin-bottom: 70px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
 
 
 }
@@ -37,4 +39,66 @@ body{
     padding-left: 20%;
     margin-left: 5%;
     padding-top: 50px;
+}
+.second-heading{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 5%;
+    padding-top: 5%;
+
+}
+.Featured-flower-details{
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+}
+.flex-card{
+    display: flex;
+    justify-content: center;
+}
+.cards-one{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    margin: 25px;
+}
+.cards-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 168, 0.15);
+    width: 464px;
+    height: 538px;
+    margin: 25px;
+}
+.cards-three{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    margin: 25px;
+    
+}
+
+ .pink-flower{
+    padding-left: 15%;
+    margin-top: 110px;
+ }
+ .rose-flower{
+    padding-left: 15%;
+    margin-top: 125px;
+ }
+
+.yallo-flower{
+padding-left: 15%;
+margin-top: 67px;
+}
+.tree-link{
+    color:#272727;
+    font-size: 24px;
+    margin: 5% 0% 0% 30%;
+    
+
 }
