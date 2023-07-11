@@ -254,5 +254,6 @@ span{
     }
     small{
         color: rgba(255, 255, 255, 0.40);
+        padding-top: 32px;
     }
   
