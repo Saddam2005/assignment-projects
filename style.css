@@ -1,7 +1,6 @@
 body{
     margin: 0%;
     font-family: 'Lato', sans-serif;
-
 }
 .flex-container{
 
@@ -165,4 +164,27 @@ span{
 .flower-one img{
     margin: 30% 0% 0% 90%;
     
+}
+.instagran-center{
+    margin-top: 5%;
+    text-align: center;
+}
+.instagram{
+    color: #272727;
+    font-size: 40px;
+}
+.online-post-details{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+.flex-flower{
+    display: flex;
+    justify-content: center;
+    
+}
+.flower-cards{
+    margin: 15px;
+}
+.last-container{
+    background-image: url("./Flower\ Asset/Rectangle 9.jpg");
 }
